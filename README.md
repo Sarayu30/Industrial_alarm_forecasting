@@ -1,6 +1,6 @@
  
 
-#Optimizing Industrial Maintenance: Forecasting Alarm Behaviors with Machine Learning and Explainable AI 
+# Optimizing Industrial Maintenance: Forecasting Alarm Behaviors with Machine Learning and Explainable AI 
 This repository contains Jupyter Notebook files focused on implementing data analysis, machine learning, and time series modeling. The project uses statistical tools, machine learning models, and explainable AI techniques to extract insights and provide transparent predictions.
 
 ---
