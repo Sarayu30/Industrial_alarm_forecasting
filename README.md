@@ -1,9 +1,3 @@
-
-
-
----
-
-````markdown
 # Optimizing Industrial Maintenance: Forecasting Alarm Behaviors with Machine Learning and Explainable AI
 
 This repository contains Jupyter Notebook files focused on implementing data analysis, machine learning, and time series modeling. The project uses statistical tools, machine learning models, and explainable AI techniques to extract insights and provide transparent predictions.
@@ -77,10 +71,9 @@ Ensure the following dependencies are installed in your environment:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-repo-link
-````
+   ```
 
 2. **Install Dependencies**:
-
    ```bash
    pip install -r requirements.txt
    ```
@@ -90,38 +83,34 @@ Ensure the following dependencies are installed in your environment:
 ## **Usage**
 
 ### Running the Notebooks
-
 1. Launch Jupyter Notebook:
-
    ```bash
    jupyter notebook
    ```
 2. Open and execute the notebooks in the following order:
-
-   * **`fds-project_final.ipynb`**: For data analysis and machine learning.
-   * **`fds-timeseries_final.ipynb`**: For time series modeling and forecasting.
+   - **`fds-project_final.ipynb`**: For data analysis and machine learning.
+   - **`fds-timeseries_final.ipynb`**: For time series modeling and forecasting.
 
 ---
 
 ## **Customization**
 
-* Replace datasets within the notebooks to analyze your specific data.
-* Modify parameters of machine learning and time series models to suit your use case.
+- Replace datasets within the notebooks to analyze your specific data.
+- Modify parameters of machine learning and time series models to suit your use case.
 
 ---
 
 ## **Results**
 
 ### Visualizations
-
-* **Line Charts**: To visualize trends over time.
-* **Box Plots**: For distribution analysis.
-* **LIME and SHAP Charts**: To explain model predictions.
+- **Line Charts**: To visualize trends over time.
+- **Box Plots**: For distribution analysis.
+- **LIME and SHAP Charts**: To explain model predictions.
 
 ### Model Performance Comparison
 
 | Model               | Accuracy | Precision | Recall | F1-Score |
-| ------------------- | -------- | --------- | ------ | -------- |
+|---------------------|----------|-----------|--------|----------|
 | XGBoost             | 98.91%   | 0.99      | 0.99   | 0.99     |
 | Random Forest       | 97.82%   | 0.98      | 0.98   | 0.98     |
 | Decision Tree       | 98.02%   | 0.98      | 0.98   | 0.98     |
@@ -139,20 +128,16 @@ Ensure the following dependencies are installed in your environment:
 ## **Contributing**
 
 We welcome contributions to this project! Follow these steps:
-
 1. Fork the repository.
 2. Create a feature branch:
-
    ```bash
    git checkout -b feature-name
    ```
 3. Commit your changes:
-
    ```bash
    git commit -m 'Add feature name'
    ```
 4. Push to your branch:
-
    ```bash
    git push origin feature-name
    ```
@@ -160,12 +145,5 @@ We welcome contributions to this project! Follow these steps:
 
 ---
 
-Feel free to reach out with questions or suggestions. Happy coding! 😊
+Feel free to reach out with questions or suggestions. Happy coding! 😊  
 Made with ❤️ by **Sarayu Krishna**
-
-```
-
----
-
-Let me know if you'd like a downloadable `.md` file or help pushing this to GitHub!
-```
